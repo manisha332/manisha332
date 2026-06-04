@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manisha332
 - 👀 I’m interested in learn coding ..
-- 🌱 I’m currently learning ..c,html,css, javascript,node.js
+- 🌱 I’m currently learning ..c,html,css, javascript,node.js,python
 - 💞️ I’m looking to collaborate on google,microsoft and other companies also
 - 📫 How to reach me .....My Gmail I'd Manishakp135@gmail.com 
 - 😄 Pronouns: ...
